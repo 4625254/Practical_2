@@ -1,1 +1,1 @@
-Practical_2
+Computing Practical 2
